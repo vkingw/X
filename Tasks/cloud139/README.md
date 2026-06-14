@@ -14,7 +14,7 @@
 - 反馈：[t.me/NobyDa_Chat](https://t.me/NobyDa_Chat/)
 - 版本：`1.0.0`
 - 发布目录：`Tasks/cloud139`
-- 更新时间：`2026-03-11 14:26:08`
+- 更新时间：`2026-06-14 21:41:17`
 
 ## 功能
 
@@ -121,5 +121,5 @@ dist/
 
 ## 远程脚本链接
 
-- 正式抓取脚本：[capture.js](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/cloud139/dist/capture.js)
-- 正式执行脚本：[cloud139.js](https://raw.githubusercontent.com/Yuheng0101/X/main/Tasks/cloud139/dist/cloud139.js)
+- 正式抓取脚本：[capture.js](https://raw.githubusercontent.com/vkingw/X/main/Tasks/cloud139/dist/capture.js)
+- 正式执行脚本：[cloud139.js](https://raw.githubusercontent.com/vkingw/X/main/Tasks/cloud139/dist/cloud139.js)
